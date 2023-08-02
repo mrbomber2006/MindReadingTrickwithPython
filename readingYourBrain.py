@@ -12,7 +12,7 @@ old_number = int(input(Fore.LIGHTYELLOW_EX +
 answer = old_number * 2
 sleep(2)
 print(Fore.LIGHTWHITE_EX + f"The" + Fore.CYAN + " number " + Fore.LIGHTWHITE_EX + "is multiplied by two Your" +
-      Fore.CYAN + "answer" + Fore.LIGHTWHITE_EX + "is : " + Fore.LIGHTRED_EX + f"{answer} ")
+      Fore.CYAN + " answer " + Fore.LIGHTWHITE_EX + "is : " + Fore.LIGHTRED_EX + f"{answer} ")
 print(Fore.BLUE + "*" * 12)
 answer += 8
 sleep(3)
